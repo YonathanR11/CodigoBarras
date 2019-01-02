@@ -19,8 +19,10 @@
 - Exporta el codigo a PDF
 
 
-###Screenshot
+##Screenshot
 
 ![alt text](https://github.com/YonathanR11/CodigoBarras/blob/master/screenshots/1.PNG)
+
 ![alt text](https://github.com/YonathanR11/CodigoBarras/blob/master/screenshots/2.PNG)
+
 ![alt text](https://github.com/YonathanR11/CodigoBarras/blob/master/screenshots/3.PNG)
