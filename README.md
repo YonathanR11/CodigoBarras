@@ -19,7 +19,7 @@
 - Exporta el codigo a PDF
 
 
-##Screenshot
+**Screenshot**
 
 ![alt text](https://github.com/YonathanR11/CodigoBarras/blob/master/screenshots/1.PNG)
 
